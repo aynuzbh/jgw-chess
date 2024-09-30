@@ -1,5 +1,3 @@
-/*! 一叶孤舟 | qq:28701884 | 欢迎指教 */
-
 var play = play||{};
 
 play.init = function (depth, map){
@@ -329,9 +327,9 @@ play.getClickMan = function (e){
 play.showWin = function (my){
 	play.isPlay = false;
 	if (my===1){
-		alert("恭喜你，你赢了！");
+		alert("Congratulations, you've won!！");
 	}else{
-		alert("很遗憾，你输了！");
+		alert("It's a shame you lost!");
 	}
 }
 
