@@ -1,5 +1,3 @@
-/*! 一叶孤舟 | qq:28701884 | 欢迎指教 */
-
 var com = com||{};
 
 com.init = function (stype){
@@ -122,7 +120,7 @@ window.onload = function(){
 	
 	//重新开始棋局
 	com.get("restartBtn").addEventListener("click", function(e) {
-		if (confirm("是否确定要重新开始？")){
+		if (confirm("Are you sure you want to start over?")){
 			play.isPlay=true ;
 			play.init( play.depth,play.nowMap );
 		}
