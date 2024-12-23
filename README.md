@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>中国象棋 - in html5</h1>
-    <p><strong>作者：</strong>赵兵辉</p>
+    <p><strong>作者：</strong>aynuzbh</p>
     <p><strong>联系：</strong>QQ:2178523692</p>
     <p><strong>Demo：</strong></p>
     <p>中国象棋 - in html5是一款使用html5 canvas开发的开源小游戏，不依赖任何类库，不依赖任何后台程序，全部原生Javascript进行AI计算，欢迎广大业内同行多多交流指正，共同完善。</p>
